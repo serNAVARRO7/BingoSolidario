@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<body data-ng-init="quantity=1;price=5">
+<div ng-app="" ng-init="col">
+<font face="Comic Sans MS,arial" size=6>
+<h1>&nbsp;&nbsp;Cartón de color: {{ col }}</h1>
+<p> </p>
+<img src="..\alritmo.PNG">
+<p> </p>
+<a href="panel.html"><img  width="150" height="150" src="..\play.PNG"></a>
+<p> </p>
+<p> </p>
+<form name="myForm">
+    Color:
+    <input type="text" name="carto" ng-model="col">
+</form>
+</font>
+</div>
+
+<style>
+  img{
+    display:block;
+    margin:auto;
+  }
+
+</style>
+</body>
+</html>
