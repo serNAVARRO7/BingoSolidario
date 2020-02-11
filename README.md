@@ -8,6 +8,10 @@ El objetivo de estas campañas era recaudar fondos para la construcción de cole
   <img src="https://github.com/serNAVARRO7/BingoSolidario/blob/master/fotoBingo.jpeg">
 </p>
 
+<hr />
+
+Alojada en Amazon S3: http://bingo2019.s3-website.us-east-2.amazonaws.com
+
   <img align="left" height="300" width="400" src="https://github.com/serNAVARRO7/BingoSolidario/blob/master/cartelSenegal18.PNG">
 <p align="right">
   <img height="300" width="400" src="https://github.com/serNAVARRO7/BingoSolidario/blob/master/cartelCongo19.PNG">
