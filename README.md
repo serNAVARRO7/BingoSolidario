@@ -2,7 +2,7 @@
 
 Aplicación Web desarrollada mediante ANGULARJS para el Bingo Solidario organizado por la fundación Itaka Escolapios durante las campañas solidarias de 2018 y 2019.
 
-El objetivo de estas campañas era recaudar fondos para la construcción de colegios y albergues en paises como Senegal y el Congo, orientados a jovenes estudiantes de educación primaria, secundaria y formación profesional.
+El objetivo de estas campañas era recaudar fondos para la construcción de colegios y albergues en paises como Senegal y el Congo. Estos centros estan orientados a jovenes estudiantes de educación primaria, secundaria y formación profesional.
 
 <hr />
 
